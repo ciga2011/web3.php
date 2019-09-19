@@ -8,6 +8,10 @@
 
 A php interface for interacting with the Ethereum blockchain and ecosystem.
 
+# Tutorial
+
+- [Programming Ethereum DApp in PHP](http://xc.hubwiz.com/course/5b36629bc02e6b6a59171de3?affid=github7878)
+
 # Install
 
 Set minimum stability to dev
